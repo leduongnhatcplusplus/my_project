@@ -1,0 +1,8 @@
+﻿  Room.cpp
+C:\Users\84818\source\repos\Quanlykhachsan\Quanlykhachsan\Room.cpp(111,32): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\84818\source\repos\Quanlykhachsan\Quanlykhachsan\Room.cpp(120,43): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\84818\source\repos\Quanlykhachsan\Quanlykhachsan\Room.cpp(123,53): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\84818\source\repos\Quanlykhachsan\Quanlykhachsan\Room.cpp(130,48): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\84818\source\repos\Quanlykhachsan\Quanlykhachsan\Room.cpp(133,92): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\84818\source\repos\Quanlykhachsan\Quanlykhachsan\Room.cpp(136,16): warning C4244: 'return': conversion from '__int64' to 'double', possible loss of data
+  Quanlykhachsan.vcxproj -> C:\Users\84818\source\repos\Quanlykhachsan\x64\Debug\Quanlykhachsan.exe
